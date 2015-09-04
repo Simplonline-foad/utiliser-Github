@@ -23,7 +23,9 @@ Vous pouvez faire une Pull Request dans votre nouveau repository, c’est un tr�
 
 5. Donnez-lui un titre. S’il est lié à une de vos issues, ajoutez `fixes #` + `le numéro de votre issue` dans le titre. Complétez avec une courte description de vos modifications.
 
-6. Quand vous avez tout compléter, cliquez à nouveau sur “Create pull request”. 
+6. Quand vous avez tout compléter, cliquez à nouveau sur “_Create pull request_”.
+
+![Create Pull Request](https://help.github.com/assets/images/help/pull_requests/pullrequest-send.png)
 
 Maintenant que vous avez faire votre Pull Request, vous allez pouvoir faire un “merge” des deux branches :) 
 
