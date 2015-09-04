@@ -4,7 +4,7 @@ Le *Branching* (branchement en anglais) vous permet de créer des branches de vo
 
 Lorsque vous créez un repository, il a une branche par défaut qui s’appelle “_Master_”. 
 
-Vous pouvez ne jamais créer d’autres branches et travailler uniquement sur celle-là si vous le souhaitez. Mais si vous avez une nouvelle idée ou une nouvelle fonction que vous souhaitez ajouter, vous pouvez créer une autre branche, qui partira de “_Master_”, pour que vous puissiez laisser “_Master_” dans son état de travail d’origine.
+Vous pouvez ne jamais créer d’autres branches et travailler uniquement sur celle-là si vous le souhaitez. Mais si vous avez une nouvelle idée ou une nouvelle fonction que vous souhaitez ajouter, vous pouvez créer une autre branche, qui partira de “_Master_”, pour que vous puissiez laisser “_Master_” dans son état originel.
 
 Créer une nouvelle branche permet de faire une copie de la branche originale à un instant T (comme le montre le schéma ci-dessous). 
 
