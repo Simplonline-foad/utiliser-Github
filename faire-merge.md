@@ -6,7 +6,7 @@ Une fois que vous avez bien effectué vos pull requests, il est temps de faire u
 
 ![Merge pull request](https://help.github.com/assets/images/help/pull_requests/merge_box/pullrequest-mergebutton.png)
 
-2. Cliquez sur “confirm merge”.
+2. Cliquez sur “_confirm merge_”.
 
 ![confirm merge](https://help.github.com/assets/images/help/pull_requests/merge_box/pullrequest-confirmmerge.png)
 
