@@ -14,7 +14,7 @@ Une fois que vous avez bien effectué vos pull requests, il est temps de faire u
 
 ![delete branch](https://help.github.com/assets/images/help/pull_requests/delete_branch_button.png)
 
-Si vous allez jeter un coup d’oeil dans les issues que vous avez créés, vous verrez que celle-ci a disparu ! Grâce au #fixes que vous avez inclue dans votre titre, Github s’est chargé de la supprimer tout seul.
+Si vous allez jeter un coup d’oeil dans les issues que vous avez créés, vous verrez que celle-ci a disparu ! Grâce au `#fixes` que vous avez inclue dans votre titre, Github s’est chargé de la supprimer tout seul.
 
 
 
