@@ -12,7 +12,7 @@ Créer une nouvelle branche permet de faire une copie de la branche originale à
 
 Si “_Master_” change lorsque vous travaillez sur votre nouvelle branche, pas de panique ! Vous pouvez toujours récupérer ces modifications.
 
-Comme vous pouvez avoir plusieurs version d’un texte que vous avez rédigé, avec le Branching vous pouvez garder plusieurs version d’un projet.
+Comme vous pouvez avoir plusieurs versions d’un texte que vous avez rédigé, avec le Branching vous pouvez garder plusieurs version d’un projet.
 
 Les développeurs utilisent cette fonctionnalité afin de pouvoir mettre dans des branches à part les bugs ou autres parties du projet à travailler séparément, pour ensuite les “_merge_” (fusionner en anglais) avec le projet principal.
 
