@@ -12,7 +12,7 @@ Maintenant que vous avez un repository, il va falloir l’alimenter un peu avec 
 
 3. Donnez-lui un titre et une description, puis cliquez sur “_Submit new issue_” quand vous avez terminé.
 
-Votre nouvelle issue à une URL bien à elle, que vous pourrez partager même une fois la page fermée.
+Votre nouvelle issue a une URL bien à elle, que vous pourrez partager même une fois la page fermée.
 
 N'hésitez pas à utiliser cette fonctionnalité, elle vous sera très utile pour demander de l'aide à vos camarades développeurs !
 
